@@ -3,77 +3,86 @@ name: Fetch Data and Commit
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch: # Allows for manual trigger of the workflow
+  workflow_dispatch:     # Allows manual triggering of the workflow
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
+    - name: Set up Node.js environment
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
 
-      - name: Fetch catalog home
-        env:
-          AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
-        run: |
-          # Fetch data from the catalog home endpoint and extract the body.results array
-          curl -H "Authorization: Token $AUTHORIZATION_TOKEN" https://play.date/api/v2/games/groups/catalog -o catalog.json
+    - name: Fetch catalog home
+      env:
+        AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
+      run: |
+        # Fetch the entire response (which is an array) from the catalog home endpoint, following redirects
+        curl -L -H "Authorization: Token $AUTHORIZATION_TOKEN" https://play.date/api/v2/games/groups/catalog -o catalog.json
 
-      - name: Fetch tags data with pagination
-        env:
-          AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
-        run: |
-          # Initialize an empty array to hold all results
-          echo "[]" > tags.json
+    - name: Fetch tags data with pagination
+      env:
+        AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
+      run: |
+        # Initialize an empty array to hold all results
+        echo "[]" > tags.json
 
-          # URL for the first request
-          url="https://play.date/api/v2/games/tags"
+        # URL for the first request
+        url="https://play.date/api/v2/games/tags"
 
-          # Loop until there is no next page
-          while [ ! -z "$url" ]; do
-            # Fetch the current page
-            response=$(curl -H "Authorization: Token $AUTHORIZATION_TOKEN" $url)
+        # Loop until there is no next page, following redirects
+        while [ ! -z "$url" ]; do
+          # Fetch the current page
+          response=$(curl -L -H "Authorization: Token $AUTHORIZATION_TOKEN" $url)
 
-            # Append the results to tags.json
-            jq --argjson newData "$(echo $response | jq '.results')" '. + $newData' tags.json > temp.json && mv temp.json tags.json
+          # Append the results array to tags.json
+          jq --argjson newData "$(echo $response | jq '.results')" '. + $newData' tags.json > temp.json && mv temp.json tags.json
 
-            # Get the next URL
-            url=$(echo $response | jq -r '.body.next')
-          done
+          # Get the next URL
+          url=$(echo $response | jq -r '.next')
+        done
 
-      - name: Fetch groups data with pagination
-        env:
-          AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
-        run: |
-          # Initialize an empty array to hold all results
-          echo "[]" > groups.json
+    - name: Fetch groups data with pagination
+      env:
+        AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
+      run: |
+        # Initialize an empty array to hold all results
+        echo "[]" > groups.json
 
-          # URL for the first request
-          url="https://play.date/api/v2/games/groups"
+        # URL for the first request
+        url="https://play.date/api/v2/games/groups"
 
-          # Loop until there is no next page
-          while [ ! -z "$url" ]; do
-            # Fetch the current page
-            response=$(curl -H "Authorization: Token $AUTHORIZATION_TOKEN" $url)
+        # Loop until there is no next page, following redirects
+        while [ ! -z "$url" ]; do
+          # Fetch the current page
+          response=$(curl -L -H "Authorization: Token $AUTHORIZATION_TOKEN" $url)
 
-            # Append the results to groups.json
-            jq --argjson newData "$(echo $response | jq '.results')" '. + $newData' groups.json > temp.json && mv temp.json groups.json
+          # Append the results array to groups.json
+          jq --argjson newData "$(echo $response | jq '.results')" '. + $newData' groups.json > temp.json && mv temp.json groups.json
 
-            # Get the next URL
-            url=$(echo $response | jq -r '.body.next')
-          done
+          # Get the next URL
+          url=$(echo $response | jq -r '.next')
+        done
 
-      - name: Commit and Push changes
-        run: |
-          rm temp.json
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add catalog.json tags.json groups.json
-          git commit -m "Update catalog, tags, and groups data from API"
-          git push
+    - name: Commit and Push changes
+      run: |
+        # Remove the temporary file before committing
+        rm temp.json || true
+
+        # Configure git
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+        # Stage the changes
+        git add catalog.json tags.json groups.json
+
+        # Commit changes if there are any, and handle cases with no changes gracefully
+        git diff-index --quiet HEAD || git commit -m "Update catalog, tags, and groups data from API"
+
+        # Push changes
+        git push || true
