@@ -11,7 +11,7 @@ const getCatalogHome = async () => {
 	// Function to fetch data from the REST API
 	const fetchCatalogData = async () => {
 		try {
-			const response = await fetch('./catalog.json');
+			const response = await fetch('./data/catalog.json');
 			const data = await response.json();
 			localStorage.setItem(localStorageKey, JSON.stringify(data));
 			return data;
