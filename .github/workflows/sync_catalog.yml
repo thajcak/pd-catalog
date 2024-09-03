@@ -36,7 +36,7 @@ jobs:
         url="https://play.date/api/v2/games/tags"
 
         # Loop until there is no next page, following redirects
-        while [ ! -z "$url" ]; do
+        while [ "$url" != "null" ] && [ ! -z "$url" ]; do
           # Fetch the current page
           response=$(curl -L -H "Authorization: Token $AUTHORIZATION_TOKEN" $url)
 
@@ -58,7 +58,7 @@ jobs:
         url="https://play.date/api/v2/games/groups"
 
         # Loop until there is no next page, following redirects
-        while [ ! -z "$url" ]; do
+        while [ "$url" != "null" ] && [ ! -z "$url" ]; do
           # Fetch the current page
           response=$(curl -L -H "Authorization: Token $AUTHORIZATION_TOKEN" $url)
 
