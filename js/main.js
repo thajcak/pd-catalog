@@ -11,10 +11,7 @@ const getCatalogHome = async () => {
 	// Function to fetch data from the REST API
 	const fetchCatalogData = async () => {
 		try {
-			const response = await fetch(URL_CATALOG);
-			if (!response.ok) {
-				throw new Error(`Network response was not ok: ${response.statusText}`);
-			}
+			const response = await fetch('./catalog.json');
 			const data = await response.json();
 			localStorage.setItem(localStorageKey, JSON.stringify(data));
 			return data;
