@@ -1,1 +1,371 @@
-[]
+[
+  {
+    "name": "Season One",
+    "detail_url": "https://play.date/api/v2/games/groups/season-one/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Playdate comes with a season of twenty-four amazing games, from developers big and small, delivered two per week.",
+    "updated_date": "02/02/2024"
+  },
+  {
+    "name": "Catalog",
+    "detail_url": "https://play.date/api/v2/games/groups/catalog/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Our curated collection of amazing Playdate things.",
+    "updated_date": "08/27/2024"
+  },
+  {
+    "name": "Launch Titles",
+    "detail_url": "https://play.date/api/v2/games/groups/launch-titles/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/4/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "02/02/2024"
+  },
+  {
+    "name": "Staff Picks",
+    "detail_url": "https://play.date/api/v2/games/groups/staff-picks/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Our Playdate favorites. Updated on June 2024.",
+    "updated_date": "06/27/2024"
+  },
+  {
+    "name": "Quick Plays",
+    "detail_url": "https://play.date/api/v2/games/groups/quick-plays/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "06/18/2024"
+  },
+  {
+    "name": "Puzzle Games",
+    "detail_url": "https://play.date/api/v2/games/groups/puzzle-games/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/11/Catalog_wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "09/04/2023"
+  },
+  {
+    "name": "Pulp Hits",
+    "detail_url": "https://play.date/api/v2/games/groups/pulp-hits/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/12/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Did you know you can [make your own game in Pulp][1] right now? Using a little code, or no code!\r\n\r\n\r\n [1]: http://play.date/pulp",
+    "updated_date": "08/13/2024"
+  },
+  {
+    "name": "Coming Soon",
+    "detail_url": "https://play.date/api/v2/games/groups/coming-soon/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/14/Playdate-Catalog-art-wide_gwsw32N.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Upcoming Playdate games. Wishlist them today!",
+    "updated_date": "07/02/2024"
+  },
+  {
+    "name": "Action",
+    "detail_url": "https://play.date/api/v2/games/groups/action/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "09/06/2023"
+  },
+  {
+    "name": "Spooooky",
+    "detail_url": "https://play.date/api/v2/games/groups/spooooky/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_e4uxqCM.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Spoopy, spooky, and downright scary Playdate games featured for Halloween 2023.",
+    "updated_date": "03/19/2024"
+  },
+  {
+    "name": "Great Stories",
+    "detail_url": "https://play.date/api/v2/games/groups/great-stories/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_CdPku2z.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "02/02/2024"
+  },
+  {
+    "name": "Fire Soundtracks",
+    "detail_url": "https://play.date/api/v2/games/groups/fire-soundtracks/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "02/03/2024"
+  },
+  {
+    "name": "Collections",
+    "detail_url": "https://play.date/api/v2/games/groups/collections/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/105/Catalog_wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Browse Playdate games by theme, mood, and feature",
+    "updated_date": "04/18/2024"
+  },
+  {
+    "name": "Staff Picks 2023",
+    "detail_url": "https://play.date/api/v2/games/groups/staff-picks-2023/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/119/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Panic editors' favorite Playdate games of 2023.",
+    "updated_date": "12/12/2023"
+  },
+  {
+    "name": "Playdate Community Awards 2023",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/162/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "See all the awards handed out to Playdate games by the [Playdate Squad Discord server][1]\r\n\r\n\r\n [1]: https://www.youtube.com/watch?v=kCj9KPpvEsk",
+    "updated_date": "03/11/2024"
+  },
+  {
+    "name": "Best Soundtrack",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-best-soundtrack/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Sound Design",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-best-sound-design/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Shmups",
+    "detail_url": "https://play.date/api/v2/games/groups/shmups/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Shoot 'em up in these frenetic, projectile-heavy games of precise aiming and close-call survival.",
+    "updated_date": "06/18/2024"
+  },
+  {
+    "name": "Published by Panic",
+    "detail_url": "https://play.date/api/v2/games/groups/published-by-panic/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_9rzZTGc.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "07/08/2024"
+  },
+  {
+    "name": "Outstanding Visual Achievement in a Pulp Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-visual-pulp/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Outstanding Visual Achievement in an SDK Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-visual-sdk/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Launch Experience",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-launch/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Puzzle Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-puzzle/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Puzzle Game",
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Action Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-action/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Adventure Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-adventure/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Arcade Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-arcade/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Sim/Strategy Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-sim-strategy/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best Narrative Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-narrative/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Best App or Nicknack",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-app/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Accomplishment in Accessibility",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-accessibility/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/181/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "The CRANKY Award",
+    "detail_url": "https://play.date/api/v2/games/groups/the-cranky-award/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/182/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Outstanding Technical Achievement in a Pulp Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-tech-Pulp/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Outstanding Technical Achievement in a SDK Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-tech-sdk/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Outstanding Pulp Game of the Year",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-pulp-goty/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_KhHIFe8.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "2023 Playdate Game of the Year",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-goty/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Catalog 2-27-2024",
+    "detail_url": "https://play.date/api/v2/games/groups/catalog-2-27-2024/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "02/27/2024"
+  },
+  {
+    "name": "Community Awards 2023 Release",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-release/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Most Anticipated Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-most-anticipated/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/196/playdate-catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2024"
+  },
+  {
+    "name": "Coming Soon - Remove Faraway Fairway",
+    "detail_url": "https://play.date/api/v2/games/groups/coming-soon-version-4/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "05/28/2024"
+  },
+  {
+    "name": "XOXO 2024",
+    "detail_url": "https://play.date/api/v2/games/groups/xoxo-2024/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_TN0V5cn.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Games we're featuring at the XOXO Festival",
+    "updated_date": "08/22/2024"
+  },
+  {
+    "name": "PAX 2024",
+    "detail_url": "https://play.date/api/v2/games/groups/pax-2024/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_dFCP0g9.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Games we're demoing at PAX West 2024",
+    "updated_date": "08/27/2024"
+  }
+]

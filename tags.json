@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "name": "Action",
+    "slug": "action",
+    "detail_url": "/api/v2/games/tags/action/"
+  },
+  {
+    "name": "Adventure",
+    "slug": "adventure",
+    "detail_url": "/api/v2/games/tags/adventure/"
+  },
+  {
+    "name": "All",
+    "slug": "all",
+    "detail_url": "/api/v2/games/tags/all/"
+  },
+  {
+    "name": "Apps",
+    "slug": "apps",
+    "detail_url": "/api/v2/games/tags/apps/"
+  },
+  {
+    "name": "Catalog",
+    "slug": "Catalog",
+    "detail_url": "/api/v2/games/tags/Catalog/"
+  },
+  {
+    "name": "On Sale",
+    "slug": "on-sale",
+    "detail_url": "/api/v2/games/tags/on-sale/"
+  },
+  {
+    "name": "Platform",
+    "slug": "platform",
+    "detail_url": "/api/v2/games/tags/platform/"
+  },
+  {
+    "name": "Puzzle",
+    "slug": "puzzle",
+    "detail_url": "/api/v2/games/tags/puzzle/"
+  },
+  {
+    "name": "Quick Plays",
+    "slug": "quick-plays",
+    "detail_url": "/api/v2/games/tags/quick-plays/"
+  },
+  {
+    "name": "Racing",
+    "slug": "racing",
+    "detail_url": "/api/v2/games/tags/racing/"
+  },
+  {
+    "name": "Rhythm",
+    "slug": "rhythm",
+    "detail_url": "/api/v2/games/tags/rhythm/"
+  },
+  {
+    "name": "RPG",
+    "slug": "rpg",
+    "detail_url": "/api/v2/games/tags/rpg/"
+  },
+  {
+    "name": "Shooter",
+    "slug": "shooter",
+    "detail_url": "/api/v2/games/tags/shooter/"
+  },
+  {
+    "name": "Sports",
+    "slug": "sports",
+    "detail_url": "/api/v2/games/tags/sports/"
+  },
+  {
+    "name": "Staff Picks",
+    "slug": "staff-picks",
+    "detail_url": "/api/v2/games/tags/staff-picks/"
+  },
+  {
+    "name": "Strategy",
+    "slug": "strategy",
+    "detail_url": "/api/v2/games/tags/strategy/"
+  },
+  {
+    "name": "Tabletop",
+    "slug": "tabletop",
+    "detail_url": "/api/v2/games/tags/tabletop/"
+  },
+  {
+    "name": "Tool",
+    "slug": "tool",
+    "detail_url": "/api/v2/games/tags/tool/"
+  }
+]
