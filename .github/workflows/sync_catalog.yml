@@ -23,7 +23,7 @@ jobs:
           AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
         run: |
           # Fetch data from the catalog home endpoint and extract the body.results array
-          curl -H "Authorization: Token $AUTHORIZATION_TOKEN" https://play.date/api/v2/games/groups/catalog | jq '.body' > catalog.json
+          curl -H "Authorization: Token $AUTHORIZATION_TOKEN" https://play.date/api/v2/games/groups/catalog -o catalog.json
 
       - name: Fetch tags data with pagination
         env:
