@@ -60,7 +60,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/12/Playdate-Catalog-art-wide.pdi",
     "animation_frame_timing": null,
     "short_description": "Did you know you can [make your own game in Pulp][1] right now? Using a little code, or no code!\r\n\r\n\r\n [1]: http://play.date/pulp",
-    "updated_date": "08/13/2024"
+    "updated_date": "09/26/2024"
   },
   {
     "name": "Coming Soon",
@@ -367,5 +367,14 @@
     "animation_frame_timing": null,
     "short_description": "Games we're demoing at PAX West 2024",
     "updated_date": "08/27/2024"
+  },
+  {
+    "name": "BOO!",
+    "detail_url": "https://play.date/api/v2/games/groups/boo/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_lARsYmU.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Games so scary, you'll play them with the lights on.",
+    "updated_date": "09/26/2024"
   }
 ]
