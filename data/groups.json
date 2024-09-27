@@ -376,5 +376,14 @@
     "animation_frame_timing": null,
     "short_description": "Games so scary, you'll play them with the lights on.",
     "updated_date": "09/26/2024"
+  },
+  {
+    "name": "Platformers",
+    "detail_url": "https://play.date/api/v2/games/groups/platformers/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "09/27/2024"
   }
 ]
