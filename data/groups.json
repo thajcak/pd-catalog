@@ -114,7 +114,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/105/Catalog_wide.pdi",
     "animation_frame_timing": null,
     "short_description": "Browse Playdate games by theme, mood, and feature",
-    "updated_date": "04/18/2024"
+    "updated_date": "09/27/2024"
   },
   {
     "name": "Staff Picks 2023",
@@ -356,8 +356,8 @@
     "list_image_size": "wide",
     "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_TN0V5cn.pdi",
     "animation_frame_timing": null,
-    "short_description": "Games we're featuring at the XOXO Festival",
-    "updated_date": "08/22/2024"
+    "short_description": "Games we featured at the XOXO Festival 2024",
+    "updated_date": "09/27/2024"
   },
   {
     "name": "PAX 2024",
@@ -365,8 +365,8 @@
     "list_image_size": "wide",
     "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_dFCP0g9.pdi",
     "animation_frame_timing": null,
-    "short_description": "Games we're demoing at PAX West 2024",
-    "updated_date": "08/27/2024"
+    "short_description": "Games we demoed at PAX West 2024",
+    "updated_date": "09/27/2024"
   },
   {
     "name": "BOO!",
@@ -375,7 +375,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_lARsYmU.pdi",
     "animation_frame_timing": null,
     "short_description": "Games so scary, you'll play them with the lights on.",
-    "updated_date": "09/26/2024"
+    "updated_date": "09/27/2024"
   },
   {
     "name": "Platformers",
