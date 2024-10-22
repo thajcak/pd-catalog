@@ -374,8 +374,8 @@
     "list_image_size": "wide",
     "list_image": "https://media-cdn.play.date/media/gamegroups/None/Playdate-Catalog-art-wide_lARsYmU.pdi",
     "animation_frame_timing": null,
-    "short_description": "Games so scary, you'll play them with the lights on.",
-    "updated_date": "10/01/2024"
+    "short_description": "Games so scary, you'll play them with the lights on",
+    "updated_date": "10/22/2024"
   },
   {
     "name": "Platformers",
@@ -383,7 +383,7 @@
     "list_image_size": "wide",
     "list_image": null,
     "animation_frame_timing": null,
-    "short_description": null,
-    "updated_date": "10/10/2024"
+    "short_description": "Run, jump, collect",
+    "updated_date": "10/22/2024"
   }
 ]
