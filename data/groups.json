@@ -15,7 +15,7 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": "Our curated collection of amazing Playdate things.",
-    "updated_date": "10/22/2024"
+    "updated_date": "10/23/2024"
   },
   {
     "name": "Launch Titles",
@@ -114,7 +114,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/105/Catalog_wide.pdi",
     "animation_frame_timing": null,
     "short_description": "Browse Playdate games by theme, mood, and feature",
-    "updated_date": "09/27/2024"
+    "updated_date": "10/23/2024"
   },
   {
     "name": "Staff Picks 2023",
@@ -385,5 +385,14 @@
     "animation_frame_timing": null,
     "short_description": "Run, jump, collect",
     "updated_date": "10/22/2024"
+  },
+  {
+    "name": "Recently Updated",
+    "detail_url": "https://play.date/api/v2/games/groups/updated/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/293/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "New features, new levels, new modes.",
+    "updated_date": "10/23/2024"
   }
 ]
