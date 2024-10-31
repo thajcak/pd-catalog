@@ -114,7 +114,34 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/105/Catalog_wide.pdi",
     "animation_frame_timing": null,
     "short_description": "Browse Playdate games by theme, mood, and feature",
-    "updated_date": "10/23/2024"
+    "updated_date": "10/31/2024"
+  },
+  {
+    "name": "Crank Wonders",
+    "detail_url": "https://play.date/api/v2/games/groups/crank-wonders/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/108/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Games that highlight Playdate's unique crank.",
+    "updated_date": "10/31/2024"
+  },
+  {
+    "name": "3D",
+    "detail_url": "https://play.date/api/v2/games/groups/3d/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/109/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Enter the third dimension…",
+    "updated_date": "10/31/2024"
+  },
+  {
+    "name": "Monochrome Masterworks",
+    "detail_url": "https://play.date/api/v2/games/groups/monochrome-masterworks/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Games with gorgeous 1-bit graphics.",
+    "updated_date": "10/31/2024"
   },
   {
     "name": "Staff Picks 2023",
@@ -402,6 +429,15 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": "Relaxing, stress-free titles",
+    "updated_date": "10/31/2024"
+  },
+  {
+    "name": "Crank-Free",
+    "detail_url": "https://play.date/api/v2/games/groups/crank-free/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/295/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Curated list of games that don't require the crank!",
     "updated_date": "10/31/2024"
   },
   {
