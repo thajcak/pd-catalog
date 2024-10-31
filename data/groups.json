@@ -69,7 +69,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/14/Playdate-Catalog-art-wide_gwsw32N.pdi",
     "animation_frame_timing": null,
     "short_description": "Upcoming Playdate games. Wishlist them today!",
-    "updated_date": "07/02/2024"
+    "updated_date": "10/31/2024"
   },
   {
     "name": "Action",
@@ -394,6 +394,15 @@
     "animation_frame_timing": null,
     "short_description": "New features, new levels, new modes.",
     "updated_date": "10/30/2024"
+  },
+  {
+    "name": "Chill Games",
+    "detail_url": "https://play.date/api/v2/games/groups/chill/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Relaxing, stress-free titles",
+    "updated_date": "10/31/2024"
   },
   {
     "name": "Staff Picks Page 2",
