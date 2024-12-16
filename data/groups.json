@@ -357,7 +357,7 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": null,
-    "updated_date": "03/08/2024"
+    "updated_date": "12/16/2024"
   },
   {
     "name": "Most Anticipated Game",
@@ -420,7 +420,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/293/Playdate-Catalog-art-wide.pdi",
     "animation_frame_timing": null,
     "short_description": "New features, new levels, new modes.",
-    "updated_date": "12/02/2024"
+    "updated_date": "12/16/2024"
   },
   {
     "name": "Chill Games",
@@ -448,5 +448,23 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "12/10/2024"
+  },
+  {
+    "name": "Recently Updated Dec 2024",
+    "detail_url": "https://play.date/api/v2/games/groups/recently-updated/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "12/16/2024"
+  },
+  {
+    "name": "Coming Soon - RowBot Rally Release",
+    "detail_url": "https://play.date/api/v2/games/groups/coming-soon-version-7/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "12/16/2024"
   }
 ]
