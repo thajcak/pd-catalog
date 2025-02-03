@@ -30,6 +30,11 @@
     "detail_url": "/api/v2/games/tags/on-sale/"
   },
   {
+    "name": "Open source",
+    "slug": "open-source",
+    "detail_url": "/api/v2/games/tags/open-source/"
+  },
+  {
     "name": "Platform",
     "slug": "platform",
     "detail_url": "/api/v2/games/tags/platform/"
