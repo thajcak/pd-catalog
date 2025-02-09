@@ -25,12 +25,17 @@
     "detail_url": "/api/v2/games/tags/Catalog/"
   },
   {
+    "name": "Long Plays",
+    "slug": "long-plays",
+    "detail_url": "/api/v2/games/tags/long-plays/"
+  },
+  {
     "name": "On Sale",
     "slug": "on-sale",
     "detail_url": "/api/v2/games/tags/on-sale/"
   },
   {
-    "name": "Open source",
+    "name": "Open Source",
     "slug": "open-source",
     "detail_url": "/api/v2/games/tags/open-source/"
   },
