@@ -20,6 +20,11 @@
     "detail_url": "/api/v2/games/tags/apps/"
   },
   {
+    "name": "Card Games",
+    "slug": "card-games",
+    "detail_url": "/api/v2/games/tags/card-games/"
+  },
+  {
     "name": "Catalog",
     "slug": "Catalog",
     "detail_url": "/api/v2/games/tags/Catalog/"
