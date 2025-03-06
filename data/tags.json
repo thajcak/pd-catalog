@@ -30,6 +30,11 @@
     "detail_url": "/api/v2/games/tags/Catalog/"
   },
   {
+    "name": "Catalog Anniversary Sale 2025",
+    "slug": "catalog-anniversary-sale-2025",
+    "detail_url": "/api/v2/games/tags/catalog-anniversary-sale-2025/"
+  },
+  {
     "name": "Long Plays",
     "slug": "long-plays",
     "detail_url": "/api/v2/games/tags/long-plays/"
