@@ -15,7 +15,7 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": "Our curated collection of amazing Playdate things.",
-    "updated_date": "02/26/2025"
+    "updated_date": "03/06/2025"
   },
   {
     "name": "Launch Titles",
@@ -32,7 +32,7 @@
     "list_image_size": "wide",
     "list_image": null,
     "animation_frame_timing": null,
-    "short_description": "Our Playdate favorites. Updated on October 2024.",
+    "short_description": "Our Playdate favorites. Updated on March 2025.",
     "updated_date": "03/06/2025"
   },
   {
@@ -420,7 +420,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/293/Playdate-Catalog-art-wide.pdi",
     "animation_frame_timing": null,
     "short_description": "New features, new levels, new modes.",
-    "updated_date": "03/05/2025"
+    "updated_date": "03/06/2025"
   },
   {
     "name": "Chill Games",
@@ -466,5 +466,14 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "12/17/2024"
+  },
+  {
+    "name": "Staff Picks - October 2024 Page",
+    "detail_url": "https://play.date/api/v2/games/groups/staff-picks-oct2024/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/364/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/06/2025"
   }
 ]
