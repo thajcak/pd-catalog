@@ -15,7 +15,7 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": "Our curated collection of amazing Playdate things.",
-    "updated_date": "03/07/2025"
+    "updated_date": "03/08/2025"
   },
   {
     "name": "Launch Titles",
@@ -475,5 +475,185 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "03/06/2025"
+  },
+  {
+    "name": "Playdate Community Awards 2024",
+    "detail_url": "https://play.date/api/v2/games/groups/playdate-community-awards-2024/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "2024 Playdate GOTY",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-goty/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/407/2024_GOTY_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Pulp GOTY",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-pulp-goty/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/408/2024_GOTY_Pulp_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Outstanding Technical Achievement - SDK",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-tech-sdk/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/409/2024_TA_Sdk_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Outsanding Technical Achievement - Pulp",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-tech-pulp/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/410/2024_TA_pulp_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "The Cranky Award",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-cranky/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/411/2024_cranky_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Accomplishment in Accessibility",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-accessibility/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/412/2024_A11y_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Most Anticipated Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-most-anticipated/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/413/2024_anticipated_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Launch Experience",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-launch/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Outstanding Visual Achievement - SDK",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-visual-sdk/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/416/2024_VA_Sdk_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Outstanding Visual Achievement - Pulp",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-visual-pulp/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/417/2024_VA_pulp_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Sound Design",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-best-sound-design/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/418/2024_sound_design_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Soundtrack",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-soundtrack/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/419/2024_soundtrack_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best App or Knickknack",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-app/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/420/2024_app_knickknack_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Narrative Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-narrative/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Sim/Strategy Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-sim-strategy/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/422/2024_simstrat_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Arcade Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-arcade/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/423/2024_arcade_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Adventure Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-adventure/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/424/2024_adventure_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Action Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-action/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/425/2024_action_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Best Puzzle Game",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2024-puzzle/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/426/2024_puzzle_Cat-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/08/2025"
   }
 ]
