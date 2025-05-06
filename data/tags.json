@@ -35,6 +35,11 @@
     "detail_url": "/api/v2/games/tags/catalog-anniversary-sale-2025/"
   },
   {
+    "name": "Egg Games",
+    "slug": "egg",
+    "detail_url": "/api/v2/games/tags/egg/"
+  },
+  {
     "name": "Long Plays",
     "slug": "long-plays",
     "detail_url": "/api/v2/games/tags/long-plays/"
