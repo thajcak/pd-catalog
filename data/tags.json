@@ -40,6 +40,11 @@
     "detail_url": "/api/v2/games/tags/egg/"
   },
   {
+    "name": "Kids",
+    "slug": "kids",
+    "detail_url": "/api/v2/games/tags/kids/"
+  },
+  {
     "name": "Long Plays",
     "slug": "long-plays",
     "detail_url": "/api/v2/games/tags/long-plays/"
