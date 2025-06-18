@@ -69,7 +69,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/14/Playdate-Catalog-art-wide_gwsw32N.pdi",
     "animation_frame_timing": null,
     "short_description": "Upcoming Playdate games. Wishlist them today!",
-    "updated_date": "03/25/2025"
+    "updated_date": "06/18/2025"
   },
   {
     "name": "Action",
@@ -655,5 +655,14 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "03/08/2025"
+  },
+  {
+    "name": "Coming Soon - Version 10",
+    "detail_url": "https://play.date/api/v2/games/groups/coming-soon-version-10/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "06/18/2025"
   }
 ]
