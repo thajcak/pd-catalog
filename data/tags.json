@@ -50,6 +50,11 @@
     "detail_url": "/api/v2/games/tags/long-plays/"
   },
   {
+    "name": "Mirror",
+    "slug": "mirror",
+    "detail_url": "/api/v2/games/tags/mirror/"
+  },
+  {
     "name": "On Sale",
     "slug": "on-sale",
     "detail_url": "/api/v2/games/tags/on-sale/"
