@@ -450,15 +450,6 @@
     "updated_date": "12/10/2024"
   },
   {
-    "name": "Recently Updated Dec 2024",
-    "detail_url": "https://play.date/api/v2/games/groups/recently-updated/",
-    "list_image_size": "wide",
-    "list_image": null,
-    "animation_frame_timing": null,
-    "short_description": null,
-    "updated_date": "08/08/2025"
-  },
-  {
     "name": "Coming Soon - RowBot Rally Release",
     "detail_url": "https://play.date/api/v2/games/groups/coming-soon-version-7/",
     "list_image_size": "wide",
