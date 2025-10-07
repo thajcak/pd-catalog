@@ -655,5 +655,14 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "07/08/2025"
+  },
+  {
+    "name": "Halloween 2025",
+    "detail_url": "https://play.date/api/v2/games/groups/halloween-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "10/06/2025"
   }
 ]
