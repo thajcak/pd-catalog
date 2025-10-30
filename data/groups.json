@@ -14,8 +14,8 @@
     "list_image_size": "wide",
     "list_image": null,
     "animation_frame_timing": null,
-    "short_description": "Our curated collection of amazing Playdate things.",
-    "updated_date": "10/21/2025"
+    "short_description": "Catalog Fall Sale is happening NOW! October 30, 10 AM – November 13, 10 AM PT.",
+    "updated_date": "10/30/2025"
   },
   {
     "name": "Launch Titles",
@@ -32,8 +32,8 @@
     "list_image_size": "wide",
     "list_image": null,
     "animation_frame_timing": null,
-    "short_description": "Our Playdate favorites. Updated March 2025.",
-    "updated_date": "04/10/2025"
+    "short_description": "Our Playdate favorites. Updated October 2025.",
+    "updated_date": "10/30/2025"
   },
   {
     "name": "Quick Plays",
@@ -664,5 +664,14 @@
     "animation_frame_timing": null,
     "short_description": "guys what is going on with my device",
     "updated_date": "10/22/2025"
+  },
+  {
+    "name": "Staff Picks - March 2025 Page",
+    "detail_url": "https://play.date/api/v2/games/groups/staff-picks-march-2025/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/508/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "10/30/2025"
   }
 ]
