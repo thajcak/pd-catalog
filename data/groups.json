@@ -15,7 +15,7 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": null,
-    "updated_date": "11/25/2025"
+    "updated_date": "12/02/2025"
   },
   {
     "name": "Launch Titles",
@@ -673,5 +673,14 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "10/30/2025"
+  },
+  {
+    "name": "Hello Playdate Podcast Centennial Celebration",
+    "detail_url": "https://play.date/api/v2/games/groups/hello-playdate-podcast-100/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/553/DeviceWide_380x90png.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Favorite Playdate games curated by [Hello Playdate Podcast][1] to celebrate the 100th episode!\r\n\r\n\r\n [1]: https://sites.libsyn.com/412607",
+    "updated_date": "12/02/2025"
   }
 ]
