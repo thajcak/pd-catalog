@@ -198,6 +198,15 @@
     "updated_date": "01/28/2025"
   },
   {
+    "name": "Pass'n'Play",
+    "detail_url": "https://play.date/api/v2/games/groups/pass-n-play/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/169/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Local-multiplayer games to enjoy with friends.",
+    "updated_date": "01/14/2026"
+  },
+  {
     "name": "Outstanding Visual Achievement in a Pulp Game",
     "detail_url": "https://play.date/api/v2/games/groups/community-awards-2023-visual-pulp/",
     "list_image_size": "wide",
@@ -420,7 +429,7 @@
     "list_image": "https://media-cdn.play.date/media/gamegroups/293/Playdate-Catalog-art-wide.pdi",
     "animation_frame_timing": null,
     "short_description": "New features, new levels, new modes.",
-    "updated_date": "09/02/2025"
+    "updated_date": "01/14/2026"
   },
   {
     "name": "Chill Games",
