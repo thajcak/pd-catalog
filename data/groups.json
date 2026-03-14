@@ -15,7 +15,7 @@
     "list_image": null,
     "animation_frame_timing": null,
     "short_description": "Anniversary Sale now until March 19 10am PT!!",
-    "updated_date": "03/13/2026"
+    "updated_date": "03/14/2026"
   },
   {
     "name": "Launch Titles",
@@ -693,6 +693,150 @@
     "updated_date": "12/02/2025"
   },
   {
+    "name": "Playdate Community Awards 2025",
+    "detail_url": "https://play.date/api/v2/games/groups/community-awards-2025/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/570/Playdate-Catalog-art-wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": null,
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Action Game",
+    "detail_url": "https://play.date/api/v2/games/groups/best-action-game-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Action Game",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Puzzle Game",
+    "detail_url": "https://play.date/api/v2/games/groups/best-puzzle-game-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Puzzle Game",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Arcade Game",
+    "detail_url": "https://play.date/api/v2/games/groups/best-arcade-game-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Arcade Game",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Adventure Game",
+    "detail_url": "https://play.date/api/v2/games/groups/best-adventure-game-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Adventure Game",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Simulator/Strategy Game",
+    "detail_url": "https://play.date/api/v2/games/groups/best-simulatorstrategy-game-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Simulator/Strategy Game",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Narrative Game",
+    "detail_url": "https://play.date/api/v2/games/groups/best-narrative-game-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Narrative Game",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Soundtrack",
+    "detail_url": "https://play.date/api/v2/games/groups/best-soundtrack-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Soundtrack",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Sound Design",
+    "detail_url": "https://play.date/api/v2/games/groups/best-sound-design-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Sound Design",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Outstanding Visual Achievement - Pulp",
+    "detail_url": "https://play.date/api/v2/games/groups/outstanding-visual-achievement-pulp-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Outstanding Visual Achievement - Pulp",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Outstanding Visual Achievement - SDK",
+    "detail_url": "https://play.date/api/v2/games/groups/outstanding-visual-achievement-sdk-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Outstanding Visual Achievement - SDK",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best Launch Experience",
+    "detail_url": "https://play.date/api/v2/games/groups/best-launch-experience-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best Launch Experience",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Innovation in Pulp",
+    "detail_url": "https://play.date/api/v2/games/groups/innovation-in-pulp-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Innovation in Pulp",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Outstanding Technical Achievement - SDK",
+    "detail_url": "https://play.date/api/v2/games/groups/outstanding-technical-achievement-sdk-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Outstanding Technical Achievement - SDK",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Most Anticipated",
+    "detail_url": "https://play.date/api/v2/games/groups/most-anticipated-2025/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/584/Device_-_Anticipated_-_wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Most Anticipated",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Continued Support",
+    "detail_url": "https://play.date/api/v2/games/groups/continued-support-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Continued Support",
+    "updated_date": "03/14/2026"
+  },
+  {
     "name": "Staff Picks - October 2025 Page",
     "detail_url": "https://play.date/api/v2/games/groups/staff-picks-oct2025/",
     "list_image_size": "wide",
@@ -700,5 +844,50 @@
     "animation_frame_timing": null,
     "short_description": null,
     "updated_date": "03/02/2026"
+  },
+  {
+    "name": "Game of the Year",
+    "detail_url": "https://play.date/api/v2/games/groups/game-of-the-year-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Game of the Year",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Best App",
+    "detail_url": "https://play.date/api/v2/games/groups/best-app-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Best App",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Accomplishment in Accessibility",
+    "detail_url": "https://play.date/api/v2/games/groups/accomplishment-in-accessibility-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "Accomplishment in Accessibility",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "The Cranky Award",
+    "detail_url": "https://play.date/api/v2/games/groups/the-cranky-award-2025/",
+    "list_image_size": "wide",
+    "list_image": null,
+    "animation_frame_timing": null,
+    "short_description": "The Cranky Award",
+    "updated_date": "03/14/2026"
+  },
+  {
+    "name": "Pulp Game of the Year",
+    "detail_url": "https://play.date/api/v2/games/groups/pulp-game-of-the-year-2025/",
+    "list_image_size": "wide",
+    "list_image": "https://media-cdn.play.date/media/gamegroups/610/Device_-_Pulp_GOTY_-_wide.pdi",
+    "animation_frame_timing": null,
+    "short_description": "Pulp Game of the Year",
+    "updated_date": "03/14/2026"
   }
 ]
