@@ -85,6 +85,11 @@
     "detail_url": "/api/v2/games/tags/racing/"
   },
   {
+    "name": "Recently Updated",
+    "slug": "recently-updated",
+    "detail_url": "/api/v2/games/tags/recently-updated/"
+  },
+  {
     "name": "Rhythm",
     "slug": "rhythm",
     "detail_url": "/api/v2/games/tags/rhythm/"
